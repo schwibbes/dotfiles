@@ -1,0 +1,10 @@
+*
+
+!/.gitignore
+!/.gitconfig
+!/.bashrc
+!/.bash_aliases
+!/.bash_profile
+!/.conemu.xml
+!bin
+!bin/*
